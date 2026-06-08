@@ -1,7 +1,6 @@
 # 忽略所有的模型權重與 Adapter
 # 忽略本地輸出結果
 models/
-results/
 
 # 順便忽略 Jupyter 和 Python 的暫存檔 (好習慣)
 .ipynb_checkpoints/
