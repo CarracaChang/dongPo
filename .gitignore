@@ -1,0 +1,7 @@
+# 忽略所有的模型權重與 Adapter
+models/
+
+# 順便忽略 Jupyter 和 Python 的暫存檔 (好習慣)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
